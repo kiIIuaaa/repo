@@ -1,5 +1,5 @@
 {
-  "name": "fv",
-  "compatibility_date": "2026-01-24",
-  "main": "src/index.js" // 对应src里的入口文件
+  "name": "repo", // 自定义你的Worker名称（可修改，如你的项目名）
+  "compatibility_date": "2026-01-24", // 兼容日期，与部署日期一致即可
+  "main": "src/index.js" // 核心配置：指定Worker入口文件路径（对应第一步创建的文件）
 }
