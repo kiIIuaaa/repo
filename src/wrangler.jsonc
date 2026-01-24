@@ -1,5 +1,0 @@
-{
-  "name": "fv",
-  "compatibility_date": "2026-01-24",
-  "main": "src/index.js" // 对应src里的入口文件
-}
