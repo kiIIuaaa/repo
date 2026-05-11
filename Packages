@@ -1778,3 +1778,67 @@ Description: 分屏，不必太复杂，一切从简即可。
 Author: be-huge
 Name: floatingView
 
+Package: com.be-huge.floating-view
+Version: 1.6.0-2
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3388
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.6.0-2_iphoneos-arm64.deb
+Size: 668856
+MD5sum: b5666c99d1052c12cf401b8f37565832
+SHA1: 0845d40680eac060b240169a6d023f91d28f6be7
+SHA256: aa56426a483cd13eaef30bc5a1cdea43bc67e12fcf485d688023958c0142bef7
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+
+Package: com.be-huge.floating-view
+Version: 1.6.0-3
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3404
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.6.0-3_iphoneos-arm64.deb
+Size: 669584
+MD5sum: e03f5ee5357544402aac0d5c7a50a4f3
+SHA1: ed3ad9bc48223d1ee0ab54a4aa3cfaf85add4e01
+SHA256: 360b7e24ca1464c5348810ce207517f0d9e4e32d91c295120e92a4fa6afc2272
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+
+Package: com.be-huge.floating-view
+Version: 1.6.0-4
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3388
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.6.0-4_iphoneos-arm64.deb
+Size: 668760
+MD5sum: 948c7466af4c49f2f411504328fd5470
+SHA1: b83dcce1037682d7495d9b8e5bda2bb97fdd65ed
+SHA256: 94bd627705eb36b104a54c1a8ae3a043fddf457539e6edf791f8749b5959836e
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+
+Package: com.be-huge.floating-view
+Version: 1.6.0-5
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3404
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.6.0-5_iphoneos-arm64.deb
+Size: 670492
+MD5sum: 066012dbbe909058df7d1ff0c0b7ad45
+SHA1: 7fe59d79f01fe42a44c56544e70ff574a9e0f92d
+SHA256: bdc3088bdd8fd39a11442fbc03c359f9df4eadb515c058c9cba36f6445b97783
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+
