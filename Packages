@@ -1766,17 +1766,18 @@ Package: com.be-huge.floating-view
 Version: 1.6.0-1
 Architecture: iphoneos-arm64
 Maintainer: be-huge
-Installed-Size: 3416
+Installed-Size: 3136
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.6.0-1_iphoneos-arm64.deb
-Size: 669376
-MD5sum: 6b528a841a628b8070aa4703c3ad0b5d
-SHA1: 9b0339096c005c5b1917af904ac0b128a82730c5
-SHA256: 9bc978b166479d9b02ce5f99b82760ca7524352cb0a674c87a940e8c527011f7
+Size: 616120
+MD5sum: f677a5399a4c92d61da9a7e85f0312e5
+SHA1: 71db73f6df825572c28f1e8fe3a459999f6bf6f2
+SHA256: f7034093c362e70dd2406dc3afbc313e2564657bbf0939318ec7a506edf324a2
 Section: Tweaks
-Description: 分屏，不必太复杂，一切从简即可。
+Description: Description: 分屏，不必太复杂，一切从简即可。恢复外部插件（灵动岛插件）能直接调用直达通知
 Author: be-huge
 Name: floatingView
+官方免费版，认准：https: //kiIIuaaa.github.io/repo/
 
 Package: com.be-huge.floating-view
 Version: 1.6.0-2
@@ -1841,4 +1842,21 @@ Section: Tweaks
 Description: 分屏，不必太复杂，一切从简即可。
 Author: be-huge
 Name: floatingView
+
+Package: com.be-huge.floating-view
+Version: 1.6.0-6
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3360
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.6.0-6_iphoneos-arm64.deb
+Size: 661508
+MD5sum: 90f91ba6d9ddda2dd9eb98e2c127499a
+SHA1: 2d159b32f682ab3a87a035839689621bd2339209
+SHA256: 380ddc9da40e3abf3fd485cf899194d1bf065e144c906df93e6220587e70b772
+Section: Tweaks
+Description: Description: 分屏，不必太复杂，一切从简即可。恢复外部插件（灵动岛插件）能直接调用直达通知
+Author: be-huge
+Name: floatingView
+官方免费版，认准：https: //kiIIuaaa.github.io/repo/
 
