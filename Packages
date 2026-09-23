@@ -1865,12 +1865,12 @@ Maintainer: be-huge
 Installed-Size: 3360
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view-free_1.6.0-6_iphoneos-arm64.deb
-Size: 660652
-MD5sum: af313a563c2d3110ab2b70c48426f00a
-SHA1: 79b90f66a8dba01a9114f44de8f098d50eea4f21
-SHA256: fd148a23c8dbda58765eed479b676e3574c1693b7ef773c19a798a0a23f01b30
+Size: 660660
+MD5sum: e27c81eddde605c506554a0f8181f4ad
+SHA1: f9df3f6147237ef3515ddad436e6241f23f36152
+SHA256: 0ceb6cdcba46c227384fea6f4b782cffa0a48aa5e644bdd822eedda16b03570d
 Section: Tweaks
-Description: 分屏，不必太复杂，一切从简即可。官方免费版。
+Description: 移除设备验证，免费使用，分屏，不必太复杂，一切从简即可。
 Author: be-huge
-Name: floatingView
+Name: floatingView Free
 
